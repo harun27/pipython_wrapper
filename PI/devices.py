@@ -2,7 +2,7 @@ from pipython import GCSDevice, pitools
 from pipython import PILogger, DEBUG, INFO, WARNING, ERROR, CRITICAL
 import logging
 
-class turntable:
+class U651:
     def __init__(self):
         self.REFMODES = REFMODES = ['FNL', 'FRF']
     
